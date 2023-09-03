@@ -1,9 +1,9 @@
 # Hi 👋🏻, I'm Anderson Ruiz
 
-<center>💡I love creating new things ⚡</center>
+<p style="text-align:center;">💡I love creating new things ⚡</p>
 🚀Turning imagination into reality 🚀
 
-==========================================================================================================================================
+==================================
 
 Full Stack Blockchain Developer
 -------------------------------
