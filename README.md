@@ -2,10 +2,12 @@
 
 <p align="center">💡I love creating new things ⚡</p>
 <p align="center">🚀Turning imagination into reality 🚀</p>
-
+<p align="center">
+ <a href="https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=6A65YEVMPSB54" target="_blank"><img alt="" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="vertical-align:center" /> </a> <a href="https://ko-fi.com/https://ko-fi.com/anderlabs" target="_blank"><img alt="" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" style="vertical-align:center" /></a>
+ <a href="https://ander-labs.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 # 💫 About Me:
-
+<p align="center">I am a passionate web and software developer with a focus on creating effective and engaging solutions to technology challenges. During my time in the industry, I have had the opportunity to work on various projects that have strengthened my skills and allowed me to grow as a professional.</p>
 
 Full Stack Blockchain Developer
 -------------------------------
