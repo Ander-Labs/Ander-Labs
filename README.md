@@ -1,7 +1,7 @@
 # Hi 👋🏻, I'm Anderson Ruiz
 
-<p style="text-align:center;">💡I love creating new things ⚡</p>
-🚀Turning imagination into reality 🚀
+*💡I love creating new things ⚡
+*🚀Turning imagination into reality 🚀
 
 ==================================
 
