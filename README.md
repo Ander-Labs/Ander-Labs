@@ -1,3 +1,8 @@
+<h1 align="center"> Hi 👋🏻, I'm Anderson Ruiz </br>
+</h1>
+<p align="center">💡I love creating new things ⚡</p>
+<p align="center">🚀Turning imagination into reality 🚀</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anderson Ruiz 
 ==========================================================================================================================================
 
