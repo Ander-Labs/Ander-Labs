@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Anderson Ruiz</br> </h1>
 
-*💡I love creating new things ⚡
-*🚀Turning imagination into reality 🚀
+<p align="center">💡I love creating new things ⚡</p>
+<p align="center">🚀Turning imagination into reality 🚀</p>
 
 ==================================
 
