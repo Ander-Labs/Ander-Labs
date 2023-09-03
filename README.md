@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Anderson Ruiz
+<h1 align="center">Hi 👋🏻, I'm Anderson Ruiz</br> </h1>
 
 *💡I love creating new things ⚡
 *🚀Turning imagination into reality 🚀
