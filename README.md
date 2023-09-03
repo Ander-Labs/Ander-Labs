@@ -9,16 +9,8 @@
 # 💫 About Me:
 <p align="center">I am a passionate web and software developer with a focus on creating effective and engaging solutions to technology challenges. During my time in the industry, I have had the opportunity to work on various projects that have strengthened my skills and allowed me to grow as a professional.</p>
 
-Full Stack Blockchain Developer
--------------------------------
 
-I am a passionate developer with a great fascination for technology and programming. I love exploring both the world of conventional web programming and the exciting possibilities of the decentralized web (Web 3.0), along with a keen interest in Artificial Intelligence (AI). I love exploring new ways to create innovative and secure applications that drive the potential of technology.
 
-* 🌍  I'm based in Perú
-* 🖥️  See my portfolio at [Ander-Labs](http://ander-labs.vercel.app/)
-* ✉️  You can contact me at [anderlabss@gmail.com](mailto:anderlabss@gmail.com)
-* 🧠  I'm learning and expanding my knowledge in emerging technologies. Currently, I am focused on areas such as decentralized web (Web 3.0) and machine learning techniques in Artificial Intelligence".
-* 🤝  I'm open to collaborating on exciting projects involving technologies such as blockchain, smart contract development, decentralized applications, artificial intelligence and web programming. I would love to be part of innovative teams that are building disruptive solutions and are willing to explore new technological frontiers. I am excited to contribute my skills and knowledge to achieve impactful results and generate positive change in the industry.
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093439878416) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/and_tzu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ruiz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anderlabss) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ander_Labs) 
