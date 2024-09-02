@@ -10,7 +10,7 @@
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7M8JY2)
-[Sponsor Ander-Labs](https://github.com/sponsors/Ander-Labs/button)
+
 
 ---
 # 💫 About Me:
