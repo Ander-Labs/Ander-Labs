@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [Ander-Labs](http://ander-labs.vercel.app )
-* ✉️  You can contact me at [anderlabss@gmail.com](mailto:anderlabss@gmail.com)
+* ✉️  You can contact me at [contact@ander-labs.site](mailto:anderlabss@gmail.com)
 * 🧠  I'm learning Python
 
 
